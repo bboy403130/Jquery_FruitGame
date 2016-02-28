@@ -3,6 +3,8 @@
 <h2>Introduction</h2>
 <p>This's a simple game that Using Jquery GridlyJS,Just for fun </p>
 <br>
+<h2>Online Demo</h2>
+ <a href='http://1-dot-tony01-1235.appspot.com/index.html'>http://1-dot-tony01-1235.appspot.com/index.html</a>
 <br>
 <h2>Reference</h2>
 <p> <a href='https://github.com/ksylvest/jquery-gridly'>Jquery Gridly</a></p>
